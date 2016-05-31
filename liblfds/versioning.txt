@@ -1,0 +1,7 @@
+Versioning is [major version].[minor version].[bugfix version]
+
+REMEMBER : Every version exists in its own name space.  You can link and compile against every version concurrently.
+
+NOTE : This is not true for 6.0.0 and 6.1.0, because one public entity was overlooked and missed being placed in
+       the name space for that version - this was fixed in 6.0.1 and 6.1.1.
+
